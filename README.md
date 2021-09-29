@@ -42,7 +42,7 @@ Example:
 }
 ```
 
-### 3. GET /feature (additional API for verification purpose)
+### 3. GET /features (additional API for verification purpose)
 
 This GET request will return all features saved from database in JSON format
 
